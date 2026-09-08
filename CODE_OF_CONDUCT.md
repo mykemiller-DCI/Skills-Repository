@@ -44,6 +44,15 @@ A reported violation that goes unaddressed beyond the response timeline above un
 - Repeated failure to enforce this Code of Conduct is itself treated as a violation of the maintainer's obligations under it, and may result in a request for a co-maintainer or independent reviewer to take over enforcement for that report.
 - Unaddressed violations do not lapse: a report remains open and actionable regardless of how much time has passed.
 
+## Appeals Process
+
+Anyone subject to an enforcement decision may appeal it by emailing mykemiller@deloitte.com within 14 days of the decision, explaining why they believe it was mistaken or disproportionate.
+
+- Appeals are reviewed by the maintainer (or, if the maintainer made the original decision and a co-maintainer/independent reviewer is available per the section above, by that reviewer instead).
+- The maintainer will acknowledge an appeal within 3 business days and issue a final decision within 10 business days.
+- The original enforcement action remains in effect while an appeal is pending, unless the maintainer decides otherwise.
+- Appeal decisions are final.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
