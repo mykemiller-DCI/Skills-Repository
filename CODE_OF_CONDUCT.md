@@ -17,6 +17,10 @@ Examples of unacceptable behavior:
 - Publishing others' private information without explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Scope
+
+This Code of Conduct applies within all project spaces (issues, pull requests, discussions, and commits in this repository) and in public spaces when an individual is representing the project or its community, such as using an official project email address or posting via an official social media account.
+
 ## Enforcement
 
 Instances of unacceptable behavior may be reported to the project maintainer at mykemiller@deloitte.com. All complaints will be reviewed and investigated promptly and fairly.
