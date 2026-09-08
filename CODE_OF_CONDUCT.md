@@ -59,6 +59,13 @@ Anyone subject to an enforcement decision may appeal it by emailing mykemiller@d
 - The maintainer will review this Code of Conduct at least annually and after handling any report, to check whether the process needs revision.
 - Questions about what counts as a violation, or how the enforcement process works, can be sent to mykemiller@deloitte.com before a formal report is filed.
 
+## Amendment Process
+
+- Changes to this Code of Conduct are proposed via a pull request against `main`, same as any other change to this repo.
+- The maintainer reviews and merges amendments; substantive changes (to Scope, Enforcement, Enforcement Escalation, or Appeals Process) should be noted in `CHANGELOG.md`.
+- Amendments apply prospectively: they govern conduct and reports going forward, not decisions already made under a prior version.
+- The version and date of the last substantive change is tracked in `CHANGELOG.md` rather than in this file, to avoid drift between the two.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
