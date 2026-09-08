@@ -27,3 +27,7 @@ Keep them short and describe the change, e.g. `Add data-analyze skill` or `Fix x
 ## Pull requests
 
 Open a PR against `main`. Describe what the skill does and when it should trigger.
+
+## Questions
+
+Contact mykemiller@deloitte.com.
