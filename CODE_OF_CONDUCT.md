@@ -19,7 +19,7 @@ Examples of unacceptable behavior:
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported to the project maintainer ([@mykemiller-DCI](https://github.com/mykemiller-DCI)) by opening an issue or contacting them directly. All complaints will be reviewed and investigated promptly and fairly.
+Instances of unacceptable behavior may be reported to the project maintainer at mykemiller@deloitte.com. All complaints will be reviewed and investigated promptly and fairly.
 
 ## Attribution
 
