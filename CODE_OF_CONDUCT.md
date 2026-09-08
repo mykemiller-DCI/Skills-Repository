@@ -36,6 +36,14 @@ Maintainers will follow these steps when responding to a violation:
 
 Response timeline: the maintainer will acknowledge a report within 3 business days and communicate a decision within 10 business days, extending only if further investigation is needed.
 
+## Consequences of Unenforced Violations
+
+A reported violation that goes unaddressed beyond the response timeline above undermines this Code of Conduct and the trust of the community. If a report is not acknowledged or resolved within the stated timeline:
+
+- The reporter may escalate by re-sending the report and requesting acknowledgment within 2 additional business days.
+- Repeated failure to enforce this Code of Conduct is itself treated as a violation of the maintainer's obligations under it, and may result in a request for a co-maintainer or independent reviewer to take over enforcement for that report.
+- Unaddressed violations do not lapse: a report remains open and actionable regardless of how much time has passed.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
