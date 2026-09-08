@@ -53,6 +53,12 @@ Anyone subject to an enforcement decision may appeal it by emailing mykemiller@d
 - The original enforcement action remains in effect while an appeal is pending, unless the maintainer decides otherwise.
 - Appeal decisions are final.
 
+## Training and Education
+
+- New contributors are expected to read this Code of Conduct before opening their first issue or pull request; linking to it from `README.md` and `CONTRIBUTING.md` satisfies this.
+- The maintainer will review this Code of Conduct at least annually and after handling any report, to check whether the process needs revision.
+- Questions about what counts as a violation, or how the enforcement process works, can be sent to mykemiller@deloitte.com before a formal report is filed.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
